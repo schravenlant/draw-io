@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.16">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="984" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1043" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,6 +57,11 @@
             <mxPoint x="560" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="UEUn9ftiOp9GzTKLOCzN-5" value="nee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UEUn9ftiOp9GzTKLOCzN-2">
+          <mxGeometry x="-0.4894" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UEUn9ftiOp9GzTKLOCzN-3" value="warm huis" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="480" width="120" height="60" as="geometry" />
         </mxCell>
@@ -65,6 +70,21 @@
             <mxPoint x="510" y="680" as="sourcePoint" />
             <mxPoint x="560" y="630" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UEUn9ftiOp9GzTKLOCzN-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1974" y="600" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UEUn9ftiOp9GzTKLOCzN-7" value="Vraag 1: schrijf voor de onderstaande diagram een lopend verhaal " style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="290" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UEUn9ftiOp9GzTKLOCzN-8" value="Vraag 2: maak zelf een diagram voor het onderstaand verhaal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="290" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UEUn9ftiOp9GzTKLOCzN-9" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;De bakker krijgt meel en bakt daarmee bruin brood en wit brood. Als het brood mislukt dan wordt het weggegooid en anders wordt het verkocht.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Mensen kopen brood als ze daarvoor genoeg geld hebben maar anders niet.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="307.5" width="350" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UEUn9ftiOp9GzTKLOCzN-11" value="&lt;div&gt;Vraag 3: geef aan wat voor de onderstaande tekst de invoer is, de beslissing is, het proces is en wat de uitvoer is.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Een man krijgt 5 euro. Daarmee koopt hij appels. Als de appels er rot uit zien eet hij ze niet op. Als ze er lekker uit zien eet hij ze wel op.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="450" width="210" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
